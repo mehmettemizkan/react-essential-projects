@@ -10,7 +10,8 @@ This is a simple React application that serves as an Investment Calculator. User
 
 
 ## Demo
-![investment-calculator](https://github.com/mehmettemizkan/react-complete-guide-course-resources/assets/56386597/dcbf68ab-224c-43a2-99c1-76f2ad3885f0)
+![investment-calculator](https://github.com/mehmettemizkan/react-essential-projects/assets/56386597/01a2a682-301f-4777-a7ff-d26d9d170d02)
+
 
 
 ## Features
