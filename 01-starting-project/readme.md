@@ -22,7 +22,7 @@ This is a simple React application that serves as an Investment Calculator. User
 ## Installation
 - Clone the repository:
 ````
-git clone https://github.com/your-username/investment-calculator.git
+git clone https://github.com/mehmettemizkan/react-essential-projects
 ````
 - Navigate to the project directory:
 ````
